@@ -1,4 +1,4 @@
-# Welcome to TanStack.com!
+# React Again
 
 This site is built with TanStack Router!
 
@@ -70,3 +70,7 @@ pnpm dev
 
 > [!WARNING]
 > You will need to update the `docs/config.json` file (in the project's repo) if you add a new doc page!
+
+## License
+
+React Again is licensed under [Apache License 2.0](LICENSE).
